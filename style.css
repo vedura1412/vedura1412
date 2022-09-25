@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 255, 0.938);
+    
+    background-image: url(https://images.unsplash.com/photo-1517999144091-3d9dca6d1e43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80);
+   
+}
+.main-container{
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+
+    color: rgba(250, 236, 236, 0.904);
+
+}
+.flex-container{
+    padding-top: 3%;
+    display: flex;
+    text-align: right;   
+
+    color: rgba(255, 251, 251, 0.904);
+}
+.menu{
+    min-width: 50px;
+    color: rgba(255, 250, 250, 0.904);
+    font-size: 0.5em;
+    position: relative;
+    top: 10%;
+    right: -68%;
+    
+    
+
+}
+
+
+.image-container{
+    margin-left: -10px;
+    display: 100%;
+    text-align: right;
+    left: 50%;
+    
+    height: 140px;
+    
+
+
+}
+#banner-image{    
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    
+    
+
+}
+.banner-title{
+
+    color: rgba(247, 238, 238, 0.911);
+    margin-top: -100px;
+    text-align: center;
+}
+.banner-subtitle{
+    color: rgb(255, 247, 247);
+    font-size: 0.7em;
+    text-align: center;
+    margin-top: 5px;
+   
+}
+.banner-skilltitle{
+    color: rgb(255, 255, 255);
+    font-size: 0.7em;
+}
+.banner-skillimage{
+    width: 40px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.a1
+{ padding-left: 94px;
+    padding-top: 55px;
+    margin:0;
+    color: rgb(245, 33, 33);
+    
+}
+.a
+{ padding-left: 177px;
+    padding-top: 55px;
+    margin:0;
+    color: aqua;
+    
+}
+.p1
+{
+    padding-left: 50px;
+    padding-top: 70px;
+    margin:0;
+}
